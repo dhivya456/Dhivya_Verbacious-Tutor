@@ -25,6 +25,7 @@ Smart Device to support Disabilities using Speech and Sign Language Conversion
 
 # Architecture diagram
 
+![Picture2](https://github.com/dhivya456/Dhivya_Verbacious-Tutor/assets/110539326/066aa59e-5036-477b-acc8-d225fc4c7d37)
 
  
 
@@ -52,8 +53,11 @@ User feedback: Collecting user feedback can provide valuable insights into the s
 Overall, to ensure the success of your project, it's important to continuously evaluate and analyze the performance of your system and make iterative improvements based on your findings.
 # RESULT
 # Hardware snapshot
+![Picture1](https://github.com/dhivya456/Dhivya_Verbacious-Tutor/assets/110539326/0a60c8d9-793d-40e9-ad2c-cec5cf257aa3)
 
 # Output Snapshot
 # Result 1
+![Picture3](https://github.com/dhivya456/Dhivya_Verbacious-Tutor/assets/110539326/865f6330-2bbf-4122-9f7f-800e1bf7861a)
 
 # Result 2
+![Picture4](https://github.com/dhivya456/Dhivya_Verbacious-Tutor/assets/110539326/3478aa18-355b-41e9-b600-6c88bb235522)
